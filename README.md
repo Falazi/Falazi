@@ -19,7 +19,3 @@ Here are some ideas to get you started:
 -->
 # Languages
 Python, Javascript
-
-# You should check out
-
-[Prinput](https://github.com/Falazi/Prinput), my new Javascript library for command-line style websites
