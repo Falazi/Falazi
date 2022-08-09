@@ -1,6 +1,6 @@
 # Hey there
 I'm Falazi.
-I am a hobbyist programmer. I work on whatever feel like.
+I work on whatever I feel like.
 
 # Languages
 Python, Javascript, CSS, HTML
